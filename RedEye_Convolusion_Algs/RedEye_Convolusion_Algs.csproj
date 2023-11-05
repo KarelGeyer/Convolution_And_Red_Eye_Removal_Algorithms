@@ -50,6 +50,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Beziers_Curve.cs" />
+    <Compile Include="Convol.cs" />
     <Compile Include="GalpForm.cs">
       <SubType>Form</SubType>
     </Compile>
